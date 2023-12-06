@@ -25,3 +25,8 @@ repos:
     rev: v13.0.0
     hooks:
     -   id: clang-format
+
+-   repo: https://github.com/PyCQA/pylint
+    rev: v2.12.2
+    hooks:
+    -   id: pylint
