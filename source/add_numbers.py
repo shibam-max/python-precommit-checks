@@ -1,5 +1,7 @@
-# add_numbers.py
-num1 = 6
-num2 = 11
-result = num1 + num2
-print(f"The sum of {num1} and {num2} is: {result}")
+"""
+Simple script to add two numbers.
+"""
+NUM1 = 6
+NUM2 = 11
+RESULT = NUM1 + NUM2
+print(f"The sum of {NUM1} and {NUM2} is: {RESULT}")
