@@ -25,3 +25,6 @@ jobs:
 
       - name: Run pre-commit
         run: pre-commit run --all-files
+
+      - name: Execute Python Script
+        run: python source/add_numbers.py
