@@ -7,6 +7,8 @@ This repository contains a simple Python script to add two numbers, along with p
 - `source`: Contains the Python script.
 - `.github`: Holds GitHub workflows.
   - `workflows`: GitHub Actions workflow files.
+- `.pre-commit-config.yaml`: Configuration file for pre-commit hooks.
+- `CODEOWNERS`: Specifies my own account for code review.
 
 ## Usage
 
