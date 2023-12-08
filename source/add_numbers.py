@@ -1,6 +1,8 @@
 """
 Simple script to add two numbers.
 """
+#!/usr/bin/python
+
 NUM1 = 8
 NUM2 = 12
 RESULT = NUM1 + NUM2
