@@ -33,19 +33,19 @@ This repository contains a simple Python script to add two numbers, along with p
 
 4. **Pre-commit Checks:**
 
-    Before committing your changes, make sure to run the pre-commit checks. Ensure you have `pre-commit` installed:
+    Before committing your changes, make sure to run the pre-commit checks for Pyhton file. Ensure you have `pre-commit` installed:
 
     ```bash
     pip install pre-commit
     ```
 
-    Run the pre-commit checks:
+    Run the pre-commit checks for Python file:
 
     ```bash
-    pre-commit run --all-files
+    pre-commit run --files source/add_numbers.py
     ```
 
-    This will automatically check and format the code according to the defined standards.
+    This will automatically check and format the Python code according to the defined standards.
 
 5. **Add, Commit, and Push:**
 
